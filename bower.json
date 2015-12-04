@@ -1,7 +1,24 @@
 {
-	"name": "chsword.github.io",
-	"version": "1.0.0",
-	"dependencies": {
-		"bootstrap":"*"
-	}
+  "name": "chsword.github.io",
+  "version": "1.0.0",
+  "dependencies": {
+    "bootstrap": "*",
+    "angular-bootstrap": "*"
+  },
+  "homepage": "https://github.com/chsword/chsword.github.io",
+  "authors": [
+    "ZouJian <chsword@126.com>"
+  ],
+  "description": "",
+  "main": "",
+  "moduleType": [],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
 }
