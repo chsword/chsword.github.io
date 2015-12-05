@@ -2,7 +2,7 @@
   "name": "chsword.github.io",
   "version": "1.0.0",
   "dependencies": {
-    "bootstrap": "*",
+    "bootstrap":"*",
     "angular-bootstrap": "*"
   },
   "homepage": "https://github.com/chsword/chsword.github.io",
