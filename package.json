@@ -4,6 +4,17 @@
   "private": true,
   "devDependencies": {
     "gulp": "^3.9.0",
+    "live-server": "^0.8.2",
+    "typescript": "^1.7.3",
     "uglify": "^0.1.5"
+  },
+  "dependencies": {
+    "angular2": "2.0.0-alpha.48",
+    "es6-shim": "^0.33.13",
+    "systemjs": "0.19.2"
+  },
+  "scripts": {
+    "tsc": "tsc -p wwwroot -w",
+    "start": "live-server --open=wwwroot"
   }
 }
